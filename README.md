@@ -2,7 +2,7 @@
 - Materials use Blender’s built-in shader nodes
 - Scaled approximately to real-world proportions
 ## File Contents
-- `krösatåg.blend` — the main 3D project file  
+- `TrainModel.blend` — the main 3D project file  
 ## Preview
 ![Train Render](renders/preview.png)
 ## Usage
